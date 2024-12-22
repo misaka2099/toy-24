@@ -1,3 +1,0 @@
-C:/univ/shit/24/build/CMakeFiles/MyExecutable.dir
-C:/univ/shit/24/build/CMakeFiles/edit_cache.dir
-C:/univ/shit/24/build/CMakeFiles/rebuild_cache.dir
