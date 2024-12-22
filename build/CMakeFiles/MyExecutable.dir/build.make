@@ -71,199 +71,199 @@ include CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/codegen:
 .PHONY : CMakeFiles/MyExecutable.dir/codegen
 
-CMakeFiles/MyExecutable.dir/expression.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/expression.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/expression.cpp.obj: C:/univ/shit/24/expression.cpp
-CMakeFiles/MyExecutable.dir/expression.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyExecutable.dir/expression.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/expression.cpp.obj -MF CMakeFiles\MyExecutable.dir\expression.cpp.obj.d -o CMakeFiles\MyExecutable.dir\expression.cpp.obj -c C:\univ\shit\24\expression.cpp
+CMakeFiles/MyExecutable.dir/src/data.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/src/data.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/src/data.cpp.obj: C:/univ/shit/24/src/data.cpp
+CMakeFiles/MyExecutable.dir/src/data.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyExecutable.dir/src/data.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/src/data.cpp.obj -MF CMakeFiles\MyExecutable.dir\src\data.cpp.obj.d -o CMakeFiles\MyExecutable.dir\src\data.cpp.obj -c C:\univ\shit\24\src\data.cpp
 
-CMakeFiles/MyExecutable.dir/expression.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/expression.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\expression.cpp > CMakeFiles\MyExecutable.dir\expression.cpp.i
+CMakeFiles/MyExecutable.dir/src/data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/src/data.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\src\data.cpp > CMakeFiles\MyExecutable.dir\src\data.cpp.i
 
-CMakeFiles/MyExecutable.dir/expression.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/expression.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\expression.cpp -o CMakeFiles\MyExecutable.dir\expression.cpp.s
+CMakeFiles/MyExecutable.dir/src/data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/src/data.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\src\data.cpp -o CMakeFiles\MyExecutable.dir\src\data.cpp.s
 
-CMakeFiles/MyExecutable.dir/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/fraction.cpp.obj: C:/univ/shit/24/fraction.cpp
-CMakeFiles/MyExecutable.dir/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyExecutable.dir/fraction.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/fraction.cpp.obj -MF CMakeFiles\MyExecutable.dir\fraction.cpp.obj.d -o CMakeFiles\MyExecutable.dir\fraction.cpp.obj -c C:\univ\shit\24\fraction.cpp
+CMakeFiles/MyExecutable.dir/src/expression.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/src/expression.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/src/expression.cpp.obj: C:/univ/shit/24/src/expression.cpp
+CMakeFiles/MyExecutable.dir/src/expression.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyExecutable.dir/src/expression.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/src/expression.cpp.obj -MF CMakeFiles\MyExecutable.dir\src\expression.cpp.obj.d -o CMakeFiles\MyExecutable.dir\src\expression.cpp.obj -c C:\univ\shit\24\src\expression.cpp
 
-CMakeFiles/MyExecutable.dir/fraction.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/fraction.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\fraction.cpp > CMakeFiles\MyExecutable.dir\fraction.cpp.i
+CMakeFiles/MyExecutable.dir/src/expression.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/src/expression.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\src\expression.cpp > CMakeFiles\MyExecutable.dir\src\expression.cpp.i
 
-CMakeFiles/MyExecutable.dir/fraction.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/fraction.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\fraction.cpp -o CMakeFiles\MyExecutable.dir\fraction.cpp.s
+CMakeFiles/MyExecutable.dir/src/expression.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/src/expression.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\src\expression.cpp -o CMakeFiles\MyExecutable.dir\src\expression.cpp.s
 
-CMakeFiles/MyExecutable.dir/main.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/main.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/main.cpp.obj: C:/univ/shit/24/main.cpp
-CMakeFiles/MyExecutable.dir/main.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyExecutable.dir/main.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/main.cpp.obj -MF CMakeFiles\MyExecutable.dir\main.cpp.obj.d -o CMakeFiles\MyExecutable.dir\main.cpp.obj -c C:\univ\shit\24\main.cpp
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj: C:/univ/shit/24/src/fraction.cpp
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj -MF CMakeFiles\MyExecutable.dir\src\fraction.cpp.obj.d -o CMakeFiles\MyExecutable.dir\src\fraction.cpp.obj -c C:\univ\shit\24\src\fraction.cpp
 
-CMakeFiles/MyExecutable.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/main.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\main.cpp > CMakeFiles\MyExecutable.dir\main.cpp.i
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/src/fraction.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\src\fraction.cpp > CMakeFiles\MyExecutable.dir\src\fraction.cpp.i
 
-CMakeFiles/MyExecutable.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/main.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\main.cpp -o CMakeFiles\MyExecutable.dir\main.cpp.s
+CMakeFiles/MyExecutable.dir/src/fraction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/src/fraction.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\src\fraction.cpp -o CMakeFiles\MyExecutable.dir\src\fraction.cpp.s
 
-CMakeFiles/MyExecutable.dir/varify.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/varify.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/varify.cpp.obj: C:/univ/shit/24/varify.cpp
-CMakeFiles/MyExecutable.dir/varify.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyExecutable.dir/varify.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/varify.cpp.obj -MF CMakeFiles\MyExecutable.dir\varify.cpp.obj.d -o CMakeFiles\MyExecutable.dir\varify.cpp.obj -c C:\univ\shit\24\varify.cpp
+CMakeFiles/MyExecutable.dir/src/main.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/src/main.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/src/main.cpp.obj: C:/univ/shit/24/src/main.cpp
+CMakeFiles/MyExecutable.dir/src/main.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyExecutable.dir/src/main.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/src/main.cpp.obj -MF CMakeFiles\MyExecutable.dir\src\main.cpp.obj.d -o CMakeFiles\MyExecutable.dir\src\main.cpp.obj -c C:\univ\shit\24\src\main.cpp
 
-CMakeFiles/MyExecutable.dir/varify.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/varify.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\varify.cpp > CMakeFiles\MyExecutable.dir\varify.cpp.i
+CMakeFiles/MyExecutable.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/src/main.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\src\main.cpp > CMakeFiles\MyExecutable.dir\src\main.cpp.i
 
-CMakeFiles/MyExecutable.dir/varify.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/varify.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\varify.cpp -o CMakeFiles\MyExecutable.dir\varify.cpp.s
+CMakeFiles/MyExecutable.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/src/main.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\src\main.cpp -o CMakeFiles\MyExecutable.dir\src\main.cpp.s
 
-CMakeFiles/MyExecutable.dir/data.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/data.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/data.cpp.obj: C:/univ/shit/24/data.cpp
-CMakeFiles/MyExecutable.dir/data.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyExecutable.dir/data.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/data.cpp.obj -MF CMakeFiles\MyExecutable.dir\data.cpp.obj.d -o CMakeFiles\MyExecutable.dir\data.cpp.obj -c C:\univ\shit\24\data.cpp
+CMakeFiles/MyExecutable.dir/src/varify.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/src/varify.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/src/varify.cpp.obj: C:/univ/shit/24/src/varify.cpp
+CMakeFiles/MyExecutable.dir/src/varify.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyExecutable.dir/src/varify.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/src/varify.cpp.obj -MF CMakeFiles\MyExecutable.dir\src\varify.cpp.obj.d -o CMakeFiles\MyExecutable.dir\src\varify.cpp.obj -c C:\univ\shit\24\src\varify.cpp
 
-CMakeFiles/MyExecutable.dir/data.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/data.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\data.cpp > CMakeFiles\MyExecutable.dir\data.cpp.i
+CMakeFiles/MyExecutable.dir/src/varify.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/src/varify.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\src\varify.cpp > CMakeFiles\MyExecutable.dir\src\varify.cpp.i
 
-CMakeFiles/MyExecutable.dir/data.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/data.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\data.cpp -o CMakeFiles\MyExecutable.dir\data.cpp.s
+CMakeFiles/MyExecutable.dir/src/varify.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/src/varify.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\src\varify.cpp -o CMakeFiles\MyExecutable.dir\src\varify.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj: C:/univ/shit/24/imgui_draw.cpp
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui_draw.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui_draw.cpp.obj -c C:\univ\shit\24\imgui_draw.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj: C:/univ/shit/24/imgui/imgui.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui.cpp.obj -c C:\univ\shit\24\imgui\imgui.cpp
 
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui_draw.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui_draw.cpp > CMakeFiles\MyExecutable.dir\imgui_draw.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui_draw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui_draw.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui_draw.cpp -o CMakeFiles\MyExecutable.dir\imgui_draw.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj: C:/univ/shit/24/imgui_impl_glfw.cpp
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui_impl_glfw.cpp.obj -c C:\univ\shit\24\imgui_impl_glfw.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj: C:/univ/shit/24/imgui/imgui_draw.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui_draw.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui_draw.cpp.obj -c C:\univ\shit\24\imgui\imgui_draw.cpp
 
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui_impl_glfw.cpp > CMakeFiles\MyExecutable.dir\imgui_impl_glfw.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui_draw.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui_draw.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui_impl_glfw.cpp -o CMakeFiles\MyExecutable.dir\imgui_impl_glfw.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui_draw.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui_draw.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj: C:/univ/shit/24/imgui_impl_opengl3.cpp
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui_impl_opengl3.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui_impl_opengl3.cpp.obj -c C:\univ\shit\24\imgui_impl_opengl3.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj: C:/univ/shit/24/imgui/imgui_impl_glfw.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui_impl_glfw.cpp.obj -c C:\univ\shit\24\imgui\imgui_impl_glfw.cpp
 
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui_impl_opengl3.cpp > CMakeFiles\MyExecutable.dir\imgui_impl_opengl3.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui_impl_glfw.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui_impl_glfw.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui_impl_opengl3.cpp -o CMakeFiles\MyExecutable.dir\imgui_impl_opengl3.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui_impl_glfw.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui_impl_glfw.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj: C:/univ/shit/24/imgui_tables.cpp
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui_tables.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui_tables.cpp.obj -c C:\univ\shit\24\imgui_tables.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj: C:/univ/shit/24/imgui/imgui_impl_opengl3.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui_impl_opengl3.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui_impl_opengl3.cpp.obj -c C:\univ\shit\24\imgui\imgui_impl_opengl3.cpp
 
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui_tables.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui_tables.cpp > CMakeFiles\MyExecutable.dir\imgui_tables.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui_impl_opengl3.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui_impl_opengl3.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui_tables.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui_tables.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui_tables.cpp -o CMakeFiles\MyExecutable.dir\imgui_tables.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui_impl_opengl3.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui_impl_opengl3.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj: C:/univ/shit/24/imgui_widgets.cpp
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui_widgets.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui_widgets.cpp.obj -c C:\univ\shit\24\imgui_widgets.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj: C:/univ/shit/24/imgui/imgui_tables.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui_tables.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui_tables.cpp.obj -c C:\univ\shit\24\imgui\imgui_tables.cpp
 
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui_widgets.cpp > CMakeFiles\MyExecutable.dir\imgui_widgets.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui_tables.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui_tables.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui_widgets.cpp -o CMakeFiles\MyExecutable.dir\imgui_widgets.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui_tables.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui_tables.cpp.s
 
-CMakeFiles/MyExecutable.dir/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
-CMakeFiles/MyExecutable.dir/imgui.cpp.obj: C:/univ/shit/24/imgui.cpp
-CMakeFiles/MyExecutable.dir/imgui.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyExecutable.dir/imgui.cpp.obj"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui.cpp.obj -c C:\univ\shit\24\imgui.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/flags.make
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/includes_CXX.rsp
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj: C:/univ/shit/24/imgui/imgui_widgets.cpp
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj: CMakeFiles/MyExecutable.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\univ\shit\24\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj -MF CMakeFiles\MyExecutable.dir\imgui\imgui_widgets.cpp.obj.d -o CMakeFiles\MyExecutable.dir\imgui\imgui_widgets.cpp.obj -c C:\univ\shit\24\imgui\imgui_widgets.cpp
 
-CMakeFiles/MyExecutable.dir/imgui.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui.cpp.i"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui.cpp > CMakeFiles\MyExecutable.dir\imgui.cpp.i
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.i"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\univ\shit\24\imgui\imgui_widgets.cpp > CMakeFiles\MyExecutable.dir\imgui\imgui_widgets.cpp.i
 
-CMakeFiles/MyExecutable.dir/imgui.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui.cpp.s"
-	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui.cpp -o CMakeFiles\MyExecutable.dir\imgui.cpp.s
+CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.s"
+	C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\univ\shit\24\imgui\imgui_widgets.cpp -o CMakeFiles\MyExecutable.dir\imgui\imgui_widgets.cpp.s
 
 # Object files for target MyExecutable
 MyExecutable_OBJECTS = \
-"CMakeFiles/MyExecutable.dir/expression.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/fraction.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/main.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/varify.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/data.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj" \
-"CMakeFiles/MyExecutable.dir/imgui.cpp.obj"
+"CMakeFiles/MyExecutable.dir/src/data.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/src/expression.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/src/main.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/src/varify.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj" \
+"CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj"
 
 # External object files for target MyExecutable
 MyExecutable_EXTERNAL_OBJECTS =
 
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/expression.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/fraction.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/main.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/varify.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/data.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj
-C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/src/data.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/src/expression.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/src/main.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/src/varify.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj
+C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj
 C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/build.make
 C:/univ/shit/24/exes/MyExecutable.exe: C:/univ/shit/24/libs/glfw/lib-mingw-w64/libglfw3.a
 C:/univ/shit/24/exes/MyExecutable.exe: CMakeFiles/MyExecutable.dir/linkLibs.rsp

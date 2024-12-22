@@ -128,269 +128,269 @@ MyExecutable/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/build
 .PHONY : MyExecutable/fast
 
-data.obj: data.cpp.obj
-.PHONY : data.obj
+imgui/imgui.obj: imgui/imgui.cpp.obj
+.PHONY : imgui/imgui.obj
 
 # target to build an object file
-data.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/data.cpp.obj
-.PHONY : data.cpp.obj
+imgui/imgui.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.obj
+.PHONY : imgui/imgui.cpp.obj
 
-data.i: data.cpp.i
-.PHONY : data.i
+imgui/imgui.i: imgui/imgui.cpp.i
+.PHONY : imgui/imgui.i
 
 # target to preprocess a source file
-data.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/data.cpp.i
-.PHONY : data.cpp.i
+imgui/imgui.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.i
+.PHONY : imgui/imgui.cpp.i
 
-data.s: data.cpp.s
-.PHONY : data.s
+imgui/imgui.s: imgui/imgui.cpp.s
+.PHONY : imgui/imgui.s
 
 # target to generate assembly for a file
-data.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/data.cpp.s
-.PHONY : data.cpp.s
+imgui/imgui.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui.cpp.s
+.PHONY : imgui/imgui.cpp.s
 
-expression.obj: expression.cpp.obj
-.PHONY : expression.obj
+imgui/imgui_draw.obj: imgui/imgui_draw.cpp.obj
+.PHONY : imgui/imgui_draw.obj
 
 # target to build an object file
-expression.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/expression.cpp.obj
-.PHONY : expression.cpp.obj
+imgui/imgui_draw.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.obj
+.PHONY : imgui/imgui_draw.cpp.obj
 
-expression.i: expression.cpp.i
-.PHONY : expression.i
+imgui/imgui_draw.i: imgui/imgui_draw.cpp.i
+.PHONY : imgui/imgui_draw.i
 
 # target to preprocess a source file
-expression.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/expression.cpp.i
-.PHONY : expression.cpp.i
+imgui/imgui_draw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.i
+.PHONY : imgui/imgui_draw.cpp.i
 
-expression.s: expression.cpp.s
-.PHONY : expression.s
+imgui/imgui_draw.s: imgui/imgui_draw.cpp.s
+.PHONY : imgui/imgui_draw.s
 
 # target to generate assembly for a file
-expression.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/expression.cpp.s
-.PHONY : expression.cpp.s
+imgui/imgui_draw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_draw.cpp.s
+.PHONY : imgui/imgui_draw.cpp.s
 
-fraction.obj: fraction.cpp.obj
-.PHONY : fraction.obj
+imgui/imgui_impl_glfw.obj: imgui/imgui_impl_glfw.cpp.obj
+.PHONY : imgui/imgui_impl_glfw.obj
 
 # target to build an object file
-fraction.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/fraction.cpp.obj
-.PHONY : fraction.cpp.obj
+imgui/imgui_impl_glfw.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.obj
+.PHONY : imgui/imgui_impl_glfw.cpp.obj
 
-fraction.i: fraction.cpp.i
-.PHONY : fraction.i
+imgui/imgui_impl_glfw.i: imgui/imgui_impl_glfw.cpp.i
+.PHONY : imgui/imgui_impl_glfw.i
 
 # target to preprocess a source file
-fraction.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/fraction.cpp.i
-.PHONY : fraction.cpp.i
+imgui/imgui_impl_glfw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.i
+.PHONY : imgui/imgui_impl_glfw.cpp.i
 
-fraction.s: fraction.cpp.s
-.PHONY : fraction.s
+imgui/imgui_impl_glfw.s: imgui/imgui_impl_glfw.cpp.s
+.PHONY : imgui/imgui_impl_glfw.s
 
 # target to generate assembly for a file
-fraction.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/fraction.cpp.s
-.PHONY : fraction.cpp.s
+imgui/imgui_impl_glfw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_glfw.cpp.s
+.PHONY : imgui/imgui_impl_glfw.cpp.s
 
-imgui.obj: imgui.cpp.obj
-.PHONY : imgui.obj
+imgui/imgui_impl_opengl3.obj: imgui/imgui_impl_opengl3.cpp.obj
+.PHONY : imgui/imgui_impl_opengl3.obj
 
 # target to build an object file
-imgui.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui.cpp.obj
-.PHONY : imgui.cpp.obj
+imgui/imgui_impl_opengl3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.obj
+.PHONY : imgui/imgui_impl_opengl3.cpp.obj
 
-imgui.i: imgui.cpp.i
-.PHONY : imgui.i
+imgui/imgui_impl_opengl3.i: imgui/imgui_impl_opengl3.cpp.i
+.PHONY : imgui/imgui_impl_opengl3.i
 
 # target to preprocess a source file
-imgui.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui.cpp.i
-.PHONY : imgui.cpp.i
+imgui/imgui_impl_opengl3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.i
+.PHONY : imgui/imgui_impl_opengl3.cpp.i
 
-imgui.s: imgui.cpp.s
-.PHONY : imgui.s
+imgui/imgui_impl_opengl3.s: imgui/imgui_impl_opengl3.cpp.s
+.PHONY : imgui/imgui_impl_opengl3.s
 
 # target to generate assembly for a file
-imgui.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui.cpp.s
-.PHONY : imgui.cpp.s
+imgui/imgui_impl_opengl3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_impl_opengl3.cpp.s
+.PHONY : imgui/imgui_impl_opengl3.cpp.s
 
-imgui_draw.obj: imgui_draw.cpp.obj
-.PHONY : imgui_draw.obj
+imgui/imgui_tables.obj: imgui/imgui_tables.cpp.obj
+.PHONY : imgui/imgui_tables.obj
 
 # target to build an object file
-imgui_draw.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_draw.cpp.obj
-.PHONY : imgui_draw.cpp.obj
+imgui/imgui_tables.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.obj
+.PHONY : imgui/imgui_tables.cpp.obj
 
-imgui_draw.i: imgui_draw.cpp.i
-.PHONY : imgui_draw.i
+imgui/imgui_tables.i: imgui/imgui_tables.cpp.i
+.PHONY : imgui/imgui_tables.i
 
 # target to preprocess a source file
-imgui_draw.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_draw.cpp.i
-.PHONY : imgui_draw.cpp.i
+imgui/imgui_tables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.i
+.PHONY : imgui/imgui_tables.cpp.i
 
-imgui_draw.s: imgui_draw.cpp.s
-.PHONY : imgui_draw.s
+imgui/imgui_tables.s: imgui/imgui_tables.cpp.s
+.PHONY : imgui/imgui_tables.s
 
 # target to generate assembly for a file
-imgui_draw.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_draw.cpp.s
-.PHONY : imgui_draw.cpp.s
+imgui/imgui_tables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_tables.cpp.s
+.PHONY : imgui/imgui_tables.cpp.s
 
-imgui_impl_glfw.obj: imgui_impl_glfw.cpp.obj
-.PHONY : imgui_impl_glfw.obj
+imgui/imgui_widgets.obj: imgui/imgui_widgets.cpp.obj
+.PHONY : imgui/imgui_widgets.obj
 
 # target to build an object file
-imgui_impl_glfw.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.obj
-.PHONY : imgui_impl_glfw.cpp.obj
+imgui/imgui_widgets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.obj
+.PHONY : imgui/imgui_widgets.cpp.obj
 
-imgui_impl_glfw.i: imgui_impl_glfw.cpp.i
-.PHONY : imgui_impl_glfw.i
+imgui/imgui_widgets.i: imgui/imgui_widgets.cpp.i
+.PHONY : imgui/imgui_widgets.i
 
 # target to preprocess a source file
-imgui_impl_glfw.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.i
-.PHONY : imgui_impl_glfw.cpp.i
+imgui/imgui_widgets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.i
+.PHONY : imgui/imgui_widgets.cpp.i
 
-imgui_impl_glfw.s: imgui_impl_glfw.cpp.s
-.PHONY : imgui_impl_glfw.s
+imgui/imgui_widgets.s: imgui/imgui_widgets.cpp.s
+.PHONY : imgui/imgui_widgets.s
 
 # target to generate assembly for a file
-imgui_impl_glfw.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_glfw.cpp.s
-.PHONY : imgui_impl_glfw.cpp.s
+imgui/imgui_widgets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui/imgui_widgets.cpp.s
+.PHONY : imgui/imgui_widgets.cpp.s
 
-imgui_impl_opengl3.obj: imgui_impl_opengl3.cpp.obj
-.PHONY : imgui_impl_opengl3.obj
+src/data.obj: src/data.cpp.obj
+.PHONY : src/data.obj
 
 # target to build an object file
-imgui_impl_opengl3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.obj
-.PHONY : imgui_impl_opengl3.cpp.obj
+src/data.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/data.cpp.obj
+.PHONY : src/data.cpp.obj
 
-imgui_impl_opengl3.i: imgui_impl_opengl3.cpp.i
-.PHONY : imgui_impl_opengl3.i
+src/data.i: src/data.cpp.i
+.PHONY : src/data.i
 
 # target to preprocess a source file
-imgui_impl_opengl3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.i
-.PHONY : imgui_impl_opengl3.cpp.i
+src/data.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/data.cpp.i
+.PHONY : src/data.cpp.i
 
-imgui_impl_opengl3.s: imgui_impl_opengl3.cpp.s
-.PHONY : imgui_impl_opengl3.s
+src/data.s: src/data.cpp.s
+.PHONY : src/data.s
 
 # target to generate assembly for a file
-imgui_impl_opengl3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_impl_opengl3.cpp.s
-.PHONY : imgui_impl_opengl3.cpp.s
+src/data.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/data.cpp.s
+.PHONY : src/data.cpp.s
 
-imgui_tables.obj: imgui_tables.cpp.obj
-.PHONY : imgui_tables.obj
+src/expression.obj: src/expression.cpp.obj
+.PHONY : src/expression.obj
 
 # target to build an object file
-imgui_tables.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_tables.cpp.obj
-.PHONY : imgui_tables.cpp.obj
+src/expression.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/expression.cpp.obj
+.PHONY : src/expression.cpp.obj
 
-imgui_tables.i: imgui_tables.cpp.i
-.PHONY : imgui_tables.i
+src/expression.i: src/expression.cpp.i
+.PHONY : src/expression.i
 
 # target to preprocess a source file
-imgui_tables.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_tables.cpp.i
-.PHONY : imgui_tables.cpp.i
+src/expression.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/expression.cpp.i
+.PHONY : src/expression.cpp.i
 
-imgui_tables.s: imgui_tables.cpp.s
-.PHONY : imgui_tables.s
+src/expression.s: src/expression.cpp.s
+.PHONY : src/expression.s
 
 # target to generate assembly for a file
-imgui_tables.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_tables.cpp.s
-.PHONY : imgui_tables.cpp.s
+src/expression.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/expression.cpp.s
+.PHONY : src/expression.cpp.s
 
-imgui_widgets.obj: imgui_widgets.cpp.obj
-.PHONY : imgui_widgets.obj
+src/fraction.obj: src/fraction.cpp.obj
+.PHONY : src/fraction.obj
 
 # target to build an object file
-imgui_widgets.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.obj
-.PHONY : imgui_widgets.cpp.obj
+src/fraction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/fraction.cpp.obj
+.PHONY : src/fraction.cpp.obj
 
-imgui_widgets.i: imgui_widgets.cpp.i
-.PHONY : imgui_widgets.i
+src/fraction.i: src/fraction.cpp.i
+.PHONY : src/fraction.i
 
 # target to preprocess a source file
-imgui_widgets.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.i
-.PHONY : imgui_widgets.cpp.i
+src/fraction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/fraction.cpp.i
+.PHONY : src/fraction.cpp.i
 
-imgui_widgets.s: imgui_widgets.cpp.s
-.PHONY : imgui_widgets.s
+src/fraction.s: src/fraction.cpp.s
+.PHONY : src/fraction.s
 
 # target to generate assembly for a file
-imgui_widgets.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/imgui_widgets.cpp.s
-.PHONY : imgui_widgets.cpp.s
+src/fraction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/fraction.cpp.s
+.PHONY : src/fraction.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+src/main.obj: src/main.cpp.obj
+.PHONY : src/main.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
-varify.obj: varify.cpp.obj
-.PHONY : varify.obj
+src/varify.obj: src/varify.cpp.obj
+.PHONY : src/varify.obj
 
 # target to build an object file
-varify.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/varify.cpp.obj
-.PHONY : varify.cpp.obj
+src/varify.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/varify.cpp.obj
+.PHONY : src/varify.cpp.obj
 
-varify.i: varify.cpp.i
-.PHONY : varify.i
+src/varify.i: src/varify.cpp.i
+.PHONY : src/varify.i
 
 # target to preprocess a source file
-varify.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/varify.cpp.i
-.PHONY : varify.cpp.i
+src/varify.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/varify.cpp.i
+.PHONY : src/varify.cpp.i
 
-varify.s: varify.cpp.s
-.PHONY : varify.s
+src/varify.s: src/varify.cpp.s
+.PHONY : src/varify.s
 
 # target to generate assembly for a file
-varify.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/varify.cpp.s
-.PHONY : varify.cpp.s
+src/varify.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyExecutable.dir\build.make CMakeFiles/MyExecutable.dir/src/varify.cpp.s
+.PHONY : src/varify.cpp.s
 
 # Help Target
 help:
@@ -401,39 +401,39 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MyExecutable
-	@echo ... data.obj
-	@echo ... data.i
-	@echo ... data.s
-	@echo ... expression.obj
-	@echo ... expression.i
-	@echo ... expression.s
-	@echo ... fraction.obj
-	@echo ... fraction.i
-	@echo ... fraction.s
-	@echo ... imgui.obj
-	@echo ... imgui.i
-	@echo ... imgui.s
-	@echo ... imgui_draw.obj
-	@echo ... imgui_draw.i
-	@echo ... imgui_draw.s
-	@echo ... imgui_impl_glfw.obj
-	@echo ... imgui_impl_glfw.i
-	@echo ... imgui_impl_glfw.s
-	@echo ... imgui_impl_opengl3.obj
-	@echo ... imgui_impl_opengl3.i
-	@echo ... imgui_impl_opengl3.s
-	@echo ... imgui_tables.obj
-	@echo ... imgui_tables.i
-	@echo ... imgui_tables.s
-	@echo ... imgui_widgets.obj
-	@echo ... imgui_widgets.i
-	@echo ... imgui_widgets.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
-	@echo ... varify.obj
-	@echo ... varify.i
-	@echo ... varify.s
+	@echo ... imgui/imgui.obj
+	@echo ... imgui/imgui.i
+	@echo ... imgui/imgui.s
+	@echo ... imgui/imgui_draw.obj
+	@echo ... imgui/imgui_draw.i
+	@echo ... imgui/imgui_draw.s
+	@echo ... imgui/imgui_impl_glfw.obj
+	@echo ... imgui/imgui_impl_glfw.i
+	@echo ... imgui/imgui_impl_glfw.s
+	@echo ... imgui/imgui_impl_opengl3.obj
+	@echo ... imgui/imgui_impl_opengl3.i
+	@echo ... imgui/imgui_impl_opengl3.s
+	@echo ... imgui/imgui_tables.obj
+	@echo ... imgui/imgui_tables.i
+	@echo ... imgui/imgui_tables.s
+	@echo ... imgui/imgui_widgets.obj
+	@echo ... imgui/imgui_widgets.i
+	@echo ... imgui/imgui_widgets.s
+	@echo ... src/data.obj
+	@echo ... src/data.i
+	@echo ... src/data.s
+	@echo ... src/expression.obj
+	@echo ... src/expression.i
+	@echo ... src/expression.s
+	@echo ... src/fraction.obj
+	@echo ... src/fraction.i
+	@echo ... src/fraction.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
+	@echo ... src/varify.obj
+	@echo ... src/varify.i
+	@echo ... src/varify.s
 .PHONY : help
 
 
